@@ -1,2 +1,2 @@
 # movie-renamer
-Renames your movie files according to theit imdb titles
+Renames your torrented movie files according to their imdb titles.
